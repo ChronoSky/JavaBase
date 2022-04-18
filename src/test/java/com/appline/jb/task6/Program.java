@@ -34,7 +34,7 @@ public class Program {
         } while (!count.matches("\\d+"));
 
 
-        if (unit.equals("1")){
+        if (unit.equals("2")){
             double metr = 0;
             double mil = 0;
             double yard = 0;
