@@ -25,7 +25,7 @@ public class Matrix {
         }
 
         for (int i = 0; i < matrix.length; i++) {
-            System.out.print(matrix[i][0]*3);
+            System.out.print(matrix[i][0]*3 + " ");
         }
     }
 
