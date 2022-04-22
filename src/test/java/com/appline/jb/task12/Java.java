@@ -1,4 +1,4 @@
-package com.appline.jb.task_12;
+package com.appline.jb.task12;
 
 public class Java {
     public static void main(String[] args) {
